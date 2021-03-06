@@ -1,0 +1,25 @@
+.background {
+    -fx-background-color: #000000;
+}
+
+.menu-bar {
+    -fx-background-color: derive(#00FA9A,20%);
+}
+
+.button {
+
+    -fx-border-color: #000000;
+    -fx-border-width: 2;
+    -fx-background-color: #00FA9A;
+    -fx-font-size: 11pt;
+    -fx-text-fill: #000000;
+}
+
+
+.menu-bar .label {
+    -fx-text-fill: black;
+}
+
+.context-menu {
+    -fx-background-color: derive(#ffffff,50%);
+}
